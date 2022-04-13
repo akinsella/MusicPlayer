@@ -1,0 +1,1 @@
+java  -Xms128m -Xmx512m -classpath lib\jl1.0.jar;lib\mp3spi1.9.2.jar;lib\tritonus_share.jar;lib\swt.jar;classes MusicPlayer
